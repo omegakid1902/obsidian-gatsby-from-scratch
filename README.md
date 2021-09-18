@@ -103,4 +103,11 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
 # obsidian-gatsby-from-scratch
+Install plugins: file system adn mdx:
+```sh
+npm install gatsby-plugin-mdx @mdx-js/mdx @mdx-js/react
+```
+
+
